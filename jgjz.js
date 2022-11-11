@@ -4,7 +4,7 @@
  * 抓取域名wly-client-api.fulugame.cn 下面的header中Authorization信息。
  * 如下方变量格式。下方第二个参数设置1则开启自动抽大转盘。0则是否。开启自动抽大转盘第一次免费，后要需要扣积分，谨慎开启
  * 变量格式：export JIUZHUANG_TOKEN='Basic 5d2edae776bb2a60c05726a14949e242&0@Basic 5d2edae776bb2a60c05726a14949e242&0'  多个账号用 @分割 
- * 
+ * 定时 10 10/59 12-16  * * *
  */
 
 
