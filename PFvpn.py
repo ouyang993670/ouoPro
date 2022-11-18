@@ -1,7 +1,7 @@
 """
 new Env('PFvpn');
 机场签到  - web  purefast.net
-
+ 
 例如 变量
 export PFvpnUser='账号#密码'  # 多账号 换行 或 & 隔开
 
