@@ -4,7 +4,7 @@
  * 说明：汇丰汇选APP，
  * 
  * 抓取域名m.prod.app.hsbcfts.com.cn下面的header中 X-HSBC-E2E-Trust-Token 信息。
- * 如下方变量格式。第一个参数是header中X-HSBC-E2E-Trust-Token，第二个参数是userId,第三个参数为X-HSBC-Pinnacle-DeviceNo中得设备ID
+ * 如下方变量格式。第一个参数是header中X-HSBC-E2E-Trust-Token随便就能拿到，第二个参数是userId,第三个参数为X-HSBC-Pinnacle-DeviceNo中 得设备ID。userId这个参数在请求body内。可通过签到以及分享文章或者视频后拿到。X-HSBC-Pinnacle-DeviceNo这个参数可以通过观 看视频或者签到从请求头拿到
  * 变量格式：export HFHX_TOKEN='xxx&xx&xx'  多个账号用\n  换行符或者@分割
  * HFHX_TOKEN示例：''xxx&1042xx&72b6xxx''
  * HFHX_CARD为卡密，找OUO领
