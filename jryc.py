@@ -10,7 +10,7 @@ export jrycSession='638xxxxxxxxxxxxxxx'
 export jrycToken='卡密'
 
 定时一天两三次 防止漏任务
-10 8 * * *
+10 8,9 * * *
 
 """
 
