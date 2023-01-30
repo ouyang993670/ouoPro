@@ -4,6 +4,7 @@
  * 说明：超市合伙人，下载地址：https://wwfx.lanzouw.com/ifTRv0l6h3be
  * 填写邀请码【27j8fe】领取2-5元红包
  *
+ * 注意：先手动玩到8级再跑脚本!先手动玩到8级再跑脚本!先手动玩到8级再跑脚本!
  * Token抓取请求头中得Authorization这一个信息就行了
  * 变量格式： 多个账号用\n 换行符或者@分割
  * CSHHR_TOKEN示例：'eyJhbGcixxx'
