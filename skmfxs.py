@@ -1,6 +1,6 @@
 """
 new Env('速看免费小说');
-追读小说  - app  ah2.zhangyue.com
+速看免费小说  - app  ah2.zhangyue.com
 抓包带 zysid 的整个链接
 
 例如 变量
