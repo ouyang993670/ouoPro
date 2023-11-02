@@ -1,6 +1,6 @@
 /**
  * 脚本地址： https://github.com/ouyang993670/ouoPro
- *
+ * --------该游戏已经凉了，请勿再跑-------- 
  * 说明：超市合伙人，下载地址：https://wwfx.lanzouw.com/ifTRv0l6h3be
  * 填写邀请码【27j8fe】领取2-5元红包
  *
